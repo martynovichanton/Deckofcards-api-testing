@@ -1,0 +1,26 @@
+div {
+  margin: 10px;
+}
+
+textarea {
+  width:100%;
+}
+
+tr td, th{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.red {
+    background-color: red;
+}
+
+.gray {
+  background-color: gray;
+}
+
+
+.rowSelected {
+  background-color: lightgray;
+  color: black;
+}
