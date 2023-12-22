@@ -1,3 +1,3 @@
 # Deck of cards API testing
 
-## Plating with API with JS
+## Playing with API with JS
